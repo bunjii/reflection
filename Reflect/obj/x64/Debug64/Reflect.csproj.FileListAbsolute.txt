@@ -1,0 +1,8 @@
+D:\AppData\Roaming\Grasshopper\Libraries\Reflect.dll
+D:\AppData\Roaming\Grasshopper\Libraries\Reflect.pdb
+D:\code\NS_UTIL\Reflect\obj\x64\Debug64\Reflect.csprojAssemblyReference.cache
+D:\code\NS_UTIL\Reflect\obj\x64\Debug64\Reflect.csproj.CoreCompileInputs.cache
+D:\code\NS_UTIL\Reflect\obj\x64\Debug64\Reflect.dll
+D:\code\NS_UTIL\Reflect\obj\x64\Debug64\Reflect.pdb
+D:\code\NS_UTIL\Reflect\obj\x64\Debug64\Reflect.Properties.Resources.resources
+D:\code\NS_UTIL\Reflect\obj\x64\Debug64\Reflect.csproj.GenerateResource.cache
